@@ -3,8 +3,8 @@
 I'm **Celine Wang**, a Computer Science and Finance student at UWA. ✨
 
 - ♡ 2024 President of Coders for Causes
-- ♥ 2023 QFin Trading Team Member
-- ♦ 2023 Treasurer of Coders for Causes
+- ♧ 2023 QFin Trading Team Member
+- ♢ 2023 Treasurer of Coders for Causes
 
 ## Quick Links
 Personal Website (TBA) | [LinkedIn Profile](https://www.linkedin.com/in/celine---wang/)
