@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hello World 🔥
 
-<!--
-**latrodexia/latrodexia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Celine Wang**, a Computer Science and Finance student at UWA. ✨
 
-Here are some ideas to get you started:
+- ♡ 2024 President of Coders for Causes
+- ♥ 2023 QFin Trading Team Member
+- ♦ 2023 Treasurer of Coders for Causes
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Quick Links
+Personal Website (TBA) | [LinkedIn Profile](https://www.linkedin.com/in/celine---wang/)
+
+<details>
+    <summary><b>GitHub stats 📈</b></summary>
+
+<div align="center">
+<img alt="Celine's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=latrodexia&show_icons=true&theme=dark&hide_rank=true" />
+
+<img alt="Celine's's top languages excluding JS,HTML,CSS" src="https://github-readme-stats.vercel.app/api/top-langs/?username=latrodexia&layout=compact&theme=dark&langs_count=8" />
+
+</div>
+</details>
+
+
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=latrodexia)
+
+</div>
